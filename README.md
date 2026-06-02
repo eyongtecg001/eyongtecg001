@@ -43,10 +43,10 @@ Point-in-Time Recovery (PITR) scenario testing
 
 📜 Certifications
 
-✅ Microsoft SQL Server Database Administration – Udemy (2024)
-✅ Databases & SQL for Data Science – IBM / Coursera (2024)
-✅ Prompt Engineering for ChatGPT – Vanderbilt University
-🔄 Azure Database Administrator Associate (DP-300) – In Progress
+- ✅ Microsoft SQL Server Database Administration – Udemy (2024)
+- ✅ Databases & SQL for Data Science – IBM / Coursera (2024)
+- ✅ Prompt Engineering for ChatGPT – Vanderbilt University / Coursera (Nov 2025)
+- 🏅 Azure Database Administrator Associate (DP-300) Cert Prep – Microsoft Press / LinkedIn Learning (May 2026)
 
 📊 GitHub Status:
 
