@@ -12,26 +12,16 @@ I am a Microsoft SQL Server & Azure Database Administrator with hands-on experie
 
 🛠️ Core Skills
 
-Area
-Technologies
-Databases
-MS SQL Server 2016–2022 · Azure SQL Database · SSMS
-SQL & Dev
-T-SQL · Stored Procedures · Views · Functions · Triggers · Execution Plans
-Administration
-Installation · Configuration · Monitoring · Health Checks · Patch Management
-Performance
-Query Tuning · Index Optimization · Blocking & Deadlock Resolution · SQL Profiler
-Backup & DR
-Full/Differential/Log Backups · PITR · Restore Validation · DR Testing
-High Availability
-Always On AG · Log Shipping · Database Mirroring · Replication
-Security
-RBAC · TDE · Auditing · Least-Privilege Access
-Automation
-PowerShell · T-SQL Automation · SQL Agent · Maintenance Plans
-Reporting
-SSIS · SSRS · ETL Pipelines
+Databases MS SQL Server 2016–2022 · Azure SQL Database · SSMS |
+| **SQL & Dev** | T-SQL · Stored Procedures · Views · Functions · Triggers · Execution Plans |
+| **Administration** | Installation · Configuration · Monitoring · Health Checks · Patch Management |
+| **Performance** | Query Tuning · Index Optimization · Blocking & Deadlock Resolution · SQL Profiler |
+| **Backup & DR**Full/Differential/Log Backups · PITR · Restore Validation · DR Testing · Log Shipping |
+| **High Availability** | Always On AG · Log Shipping · Database Mirroring · Replication |
+| **Reporting & ETL** | SSIS · SSRS · ETL Pipeline Design |
+| **Security** | RBAC · TDE · Auditing · Least-Privilege Access |
+| **Automation** | PowerShell · T-SQL Automation · SQL Agent · Maintenance Plans |
+| **AI & Productivity** | Prompt Engineering · ChatGPT · AI-assisted Query Optimization |
 
 📁 Featured Projects
 
